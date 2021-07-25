@@ -1,6 +1,6 @@
 {
   "displayName": "TuyaWebPlatform",
-  "name": "@milo526/homebridge-tuya-web",
+  "name": "homebridge-tuya-web-fahrenheit",
   "version": "1.1.0-0",
   "description": "Homebridge plugin for use with Tuya devices (uses Home Assistant Tuya Web API)",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "tuya",
     "smartlife"
   ],
-  "author": "Milo Cesar <milocesar1@gmail.com>",
+  "author": "Milo Cesar <milocesar1@gmail.com> & Abdul",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -31,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/milo526/homebridge-tuya-web"
+    "url": "https://github.com/diazabdulm/homebridge-tuya-web"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/milo526"
+    "url": "https://github.com/sponsors/diazabdulm"
   },
   "bugs": {
-    "url": "https://github.com/milo526/homebridge-tuya-web/issues"
+    "url": "https://github.com/diazabdulm/homebridge-tuya-web/issues"
   },
   "dependencies": {
     "axios": "^0.21.1",
